@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Wing-summer/WingHexExplorer2">
+<a href="https://github.com/Wing-summer/WingGifEditor2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wing-summer&repo=WingGifEditor2&theme=dark" />
 </a>
 </p>
