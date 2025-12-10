@@ -5,6 +5,14 @@
 <img src="https://komarev.com/ghpvc/?username=wing-summer" alt="Wing-summer" /> 
 </p>
 
+<p align="center">
+<img src="https://githubcard.com/Wing-summer.svg?d=dO07LAzx" alt="Wing-summer" /> 
+</p>
+<p align="center">
+<img src="Assets/Qt.svg" width="40px" />
+<img src="Assets/cpp.svg" width="40px" />
+</p>
+
 ## About me
 
 <div id="friendLink">
@@ -32,17 +40,3 @@
 - 🌱 I’m keep learning what I wanna to know.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about GNU, Linux and C++ or Software Reverse Engineering?
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wing-summer&theme=dark&layout=compact" alt="Wing-summer" /> 
-</p>
-<p align="center">
-<img src="Assets/Qt.svg" width="40px" />
-<img src="Assets/cpp.svg" width="40px" />
-</p>
-
-## My Status
-
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wing-summer&show_icons=true&theme=dark" alt="Wing-summer" /> 
-</p>
