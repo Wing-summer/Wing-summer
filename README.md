@@ -35,8 +35,6 @@
 
 <p></p>
 
-- 🧑‍🎓 I am a postgraduate major in Mechanical Engineering from China.
-- 🔭 I’m working on medical equipment controlling software developing based on Optical Coherence Tomography.
 - 🌱 I’m keep learning what I wanna to know.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about GNU, Linux and C++ or Software Reverse Engineering?
